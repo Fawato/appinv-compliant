@@ -1,0 +1,5 @@
+Application Name,Application Id,Application Admin User Name,Business Unit,Department,Tower,JIRA Project Name,Sonarqube Project Name,Checkmarx Project Name,Bitbucket Repo URL,Jenkins Job Name,Twistlock Image Name,Jfrog Repo URL
+Digital_Account_Opening_183,183,Digital_Account_Opening_183-1,Onboarding and Workflow Systems,IT,Platforms and Operations,Digital Account Opening_183,,DAO_BOF_DEV,DAO,"Digital_Account_Opening_183_NonProd, Digital_Account_Opening_183_Prod",Digital Account Opening - CI-CD,digital-account-opening-docker-local
+Digiserv_1141,1141,Digiserv_1141-1,Onboarding and Workflow Systems,IT,Platforms and Operations,Branch of Future,,BOF_DEV,DIG,"DigiServ_1141_NonProd, DigiServ_1141_Prod",Digiserv - CI-CD,digiserv-docker-local
+Sankalp_Sbb_1199_NonProd,1199,Sankalp_Sbb_1199_NonProd-1,Retail Lending and TPP,IT,Transform Business,SankalpSBB_New,,Sankalp_SBB,SS,"Sanakalp_Sbb_1199_NonProd, Sankalp_Sbb_1199_Prod",,sbb-maven-local/SANKALP/UAT_MAVEN_REPO
+Maximus-916-Prod,916,Maximus-916-Prod-1,Retail Lending and TPP,IT,Transform Business,mAXImuS,,Maximus_Gocd,PROD,Maximus-916-Prod,Maximus - CI-CD,maximus-general
