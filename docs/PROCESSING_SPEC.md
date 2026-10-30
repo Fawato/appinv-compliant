@@ -11,7 +11,7 @@ A row is rejected, with the reasons recorded, when:
 - `criticality` is not one of `low`, `medium`, `high`, `critical` (case-insensitive).
 
 ## Processing
-Accepted rows have surrounding whitespace trimmed and `criticality` lower-cased.
+Accepted rows have surrounding whitespace trimmed, and `owner_email` and `criticality` lower-cased.
 
 ## Outputs
 - Accepted records.
